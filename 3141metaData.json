@@ -1,0 +1,6 @@
+{
+  "name": "3141 - Cardano Test Pool",
+  "description": "Cardano pool runing on RPI",
+  "ticker": "3141",
+  "homepage": "https://github.com/sirbert/3141"
+}
